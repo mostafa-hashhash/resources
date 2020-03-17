@@ -15,9 +15,11 @@ https://engineering.videoblocks.com/archive
 https://8thlight.com/blog/
 
 ## Articles 
-- www.techrepublic.com/google-amp/article/how-netflix-uses-python-streaming-giant-reveals-its-programming-language-libraries-and-frameworks/
+- **Large Scale** www.techrepublic.com/google-amp/article/how-netflix-uses-python-streaming-giant-reveals-its-programming-language-libraries-and-frameworks/
 
+- **Recommendation Systems:** https://towardsdatascience.com/mind-reading-algorithms-368bdf412eb2
 
+--- 
 
 # Journey to the center of the Web
 
