@@ -14,24 +14,37 @@ After finishing the basics you will need to sharpen your Skills & Depen Your Kno
 https://engineering.videoblocks.com/archive
 https://8thlight.com/blog/
 
+## Articles 
+- www.techrepublic.com/google-amp/article/how-netflix-uses-python-streaming-giant-reveals-its-programming-language-libraries-and-frameworks/
 
 
-## Web Topics
-https://github.com/andrews1022/web-development-2020-course-list
 
-### Deployment & DevOps
-  - SSh : Secure way for machines to communicate
-  - NGINX / Apache : Server environment
-  - Docker : Virtualization
-  - Testing - unit, functional, integration
-  - Load Balancing, Monitoring, Security
-  - Deployment : AWS, Azure, GCP, Heroku, Digital Ocean
-  - SSL : 
+# Journey to the center of the Web
+
+### Development  Tools
+- GIT for source version control 
+- Browser Dev. Tools
+- VSCode Extensions
+- NPM or Yarn for package management
+
+- Emmet
+- Axios
+- Webpack or Pracel ( JS Module bundlers )
+- JS infra  CLI/ NPM / webpack / babel
 
 ### Stratigies of Development
 
 - Test Driven
 - Domain Driven
+
+### Deployment & DevOps
+ - SSh : Secure way for machines to communicate
+ - NGINX / Apache : Server environment
+ - Docker : Virtualization
+ - Testing - unit, functional, integration
+ - Load Balancing, Monitoring, Security
+ - Deployment : AWS, Azure, GCP, Heroku, Digital Ocean
+ - SSL : 
 
 ### GraphQL
 
@@ -64,29 +77,24 @@ As a ready-made services
 
 - Speech, Vision
 
-### Development  Tools
-- GIT for source version control 
-- Browser Dev. Tools
-- VSCode Extensions
-- NPM or Yarn for package management
-
-- Emmet
-- Axios
-- Webpack or Pracel ( JS Module bundlers )
-- JS infra  CLI/ NPM / webpack / babel
 
 
 ### New 
 - Web Assembly :
+
 - PWA : Regular web app but have a native feel as far as experience, layout and functionality
  Must be HHTPS
  Installable
  Relaible, fast, engaging
  Splash screen
  Look great on all screen sizes
+
 - JAMstack : JS, API & Markup ,,, high performance, generated at deploy time, easy to scale and host
+
 - Static site generator
+
 - Server-side rendering
+
 - Svelte : JS compiler producing vanilla and simplify building interfaces
 No virtual DOM, fast & less code
 
