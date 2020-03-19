@@ -7,6 +7,7 @@ https://github.com/kilimchoi/engineering-blogs
 ## Engineering Blogs
 - https://blog.box.com/category/engineering
 - https://martinfowler.com/
+- http://highscalability.com/
 
 
 After finishing the basics you will need to sharpen your Skills & Depen Your Knowledge,
